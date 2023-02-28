@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Adding changes from Alpha
 struct ContentView: View {
     var body: some View {
         VStack {
