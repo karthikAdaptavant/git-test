@@ -25,6 +25,7 @@ struct ContentView: View {
 // #3
 // #4
 // $6
+// #7
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
