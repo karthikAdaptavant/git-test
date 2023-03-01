@@ -8,6 +8,7 @@
 import SwiftUI
 
 // Adding changes from Alpha
+// 
 struct ContentView: View {
     
     @State private var searchText = ""
