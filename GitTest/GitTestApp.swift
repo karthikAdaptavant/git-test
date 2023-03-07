@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import Foundation
+
 
 @main
 struct GitTestApp: App {
